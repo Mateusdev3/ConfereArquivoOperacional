@@ -39,7 +39,7 @@ Por ser utilizado em um ambiente operacional real, o sistema ajuda a evitar prob
 
 O usuário informa a pasta da data que deseja validar. A pasta segue o padrão utilizado no processo operacional.
 
-![Entrada da data analisada](assets/entrada-data.png)
+![Entrada da data analisada](docs/screenshots/entrada-data.png)
 
 ---
 
@@ -47,7 +47,7 @@ O usuário informa a pasta da data que deseja validar. A pasta segue o padrão u
 
 Durante a execução, o sistema percorre as operadoras e exibe o status dos arquivos encontrados, indicando se os `.tac` estão presentes e se o painel operacional está válido.
 
-![Resultado da validação no console](assets/resultado-console.png)
+![Resultado da validação no console](docs/screenshots/resultado-console.png)
 
 ---
 
@@ -55,7 +55,7 @@ Durante a execução, o sistema percorre as operadoras e exibe o status dos arqu
 
 Ao final da análise, o programa gera um log detalhado contendo a situação de cada operadora, os arquivos encontrados, o status do painel e o resumo geral da execução.
 
-![Relatório gerado](assets/log-gerado.png)
+![Relatório gerado](docs/screenshots/log-gerado.png)
 
 ---
 
